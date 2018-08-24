@@ -22,15 +22,18 @@
 # Registers:
 
 # File marks:
-'0  15  39  ~/README.txt
-'1  1  0  /var/lib/jenkins/secrets/initialAdminPassword
-'2  20  58  /opt/tomcat/webapps/manager/META-INF/context.xml
-'3  19  0  /opt/tomcat/conf/tomcat-users.xml
-'4  22  78  /opt/tomcat/conf/tomcat-users.xml
-'5  1  0  /opt/tomcat/conf/tomcat-users.cml
-'6  1  0  /opt/tomcat/bin/tomcat-users.xml
+'0  2  0  ~/fix.txt
+'1  15  39  ~/README.txt
+'2  1  0  /var/lib/jenkins/secrets/initialAdminPassword
+'3  20  58  /opt/tomcat/webapps/manager/META-INF/context.xml
+'4  19  0  /opt/tomcat/conf/tomcat-users.xml
+'5  22  78  /opt/tomcat/conf/tomcat-users.xml
+'6  1  0  /opt/tomcat/conf/tomcat-users.cml
+'7  1  0  /opt/tomcat/bin/tomcat-users.xml
 
 # Jumplist (newest first):
+-'  2  0  ~/fix.txt
+-'  1  0  ~/fix.txt
 -'  15  39  ~/README.txt
 -'  1  0  ~/README.txt
 -'  1  0  /var/lib/jenkins/secrets/initialAdminPassword
@@ -128,10 +131,14 @@
 -'  1  0  /opt/tomcat/conf/tomcat-users.cml
 -'  1  0  /opt/tomcat/bin/tomcat-users.xml
 -'  1  0  /opt/tomcat/bin/tomcat-users.xml
--'  1  0  /opt/tomcat/conf/tomcat-users.cml
--'  1  0  /opt/tomcat/bin/tomcat-users.xml
 
 # History of marks within files (newest to oldest):
+
+> ~/fix.txt
+	"	2	0
+	^	2	0
+	.	1	25
+	+	1	25
 
 > ~/README.txt
 	"	15	39
